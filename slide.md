@@ -207,6 +207,8 @@ https://github.com/chokkoyamada/github-handson
 * ブランチをたくさん作ってコミットが多くなってきても重くならない
 * GitHubはウェブサービスなのでどこからでもアクセスができる
 
+---
+
 # 他のGitHubの機能
 
 * ウェブサイトのホスティング(GitHub Pages) ←このプレゼンでも利用
