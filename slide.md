@@ -44,7 +44,7 @@ https://chokkoyamada.github.io/github-handson/
 
 # このセッションでやること
 
-### GitHubに登録してみよう(15分)
+### GitHubに登録してみよう(10分)
 
 とにかく登録してみます。すでにアカウントある人はおさらいで。
 スマホでも登録できます
@@ -52,6 +52,10 @@ https://chokkoyamada.github.io/github-handson/
 ### Pull Requestを体験してみよう(20分)
 
 GitHubのシステムの最も肝の部分であるPull Requestについて実際に体験してみます
+
+### その他のGitHubの機能(10分)
+
+### 質疑応答(10分)
 
 ---
 
@@ -122,6 +126,13 @@ https://github.com/chokkoyamada/github-handson
 
 <img width="500" alt="_2016-11-26_11_32_36" src="https://cloud.githubusercontent.com/assets/843192/20637572/15e61a1a-b3cf-11e6-9514-12657c5b59ce.png">
 
+---
+
+# remark.jsとMarkdownの基本（このファイルの書き方）
+
+* `---` 三本の―で区切ることでページの境目になります。
+* `#`で見出しになります。 #の数が大きいほど小さな見出しになります。 #はh1, ##はh2...
+* `*`で箇条書きのリストを作ります。
 
 ---
 
@@ -160,7 +171,10 @@ https://github.com/chokkoyamada/github-handson
 
 ---
 
-* Pull Requestを受ける側
+# Pull Requestを受ける側
+
+---
+* Pull Requestが来ていることが確認できます。
 
 <img width="500" alt="_2016-11-26_11_41_40" src="https://cloud.githubusercontent.com/assets/843192/20637610/68d8daa4-b3d0-11e6-9fc1-9f3866666082.png">
 
@@ -176,7 +190,7 @@ https://github.com/chokkoyamada/github-handson
 
 * マージが完了しました。
 
-<img width="1068" alt="2016-11-26 11 42 21" src="https://cloud.githubusercontent.com/assets/843192/20637620/a9a73a4e-b3d0-11e6-93c0-337182662787.png">
+<img width="500" alt="2016-11-26 11 42 21" src="https://cloud.githubusercontent.com/assets/843192/20637620/a9a73a4e-b3d0-11e6-93c0-337182662787.png">
 
 ---
 
@@ -184,5 +198,19 @@ https://github.com/chokkoyamada/github-handson
 
 * 小さなパッチを送ることが分かりやすく、かつオープンにできる
 * レビューのプロセスが挟まることで、コードの品質が良くなる
+
+---
+
+# Git, GitHubと組み合わせたときの利点
+
+* 大人数でいっぺんに開発がやりやすい
+* ブランチをたくさん作ってコミットが多くなってきても重くならない
+* GitHubはウェブサービスなのでどこからでもアクセスができる
+
+# 他のGitHubの機能
+
+* ウェブサイトのホスティング(GitHub Pages) ←このプレゼンでも利用
+* Issue管理（バグトラッカー）
+* Wikiの機能
 
 
