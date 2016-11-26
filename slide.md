@@ -171,6 +171,8 @@ https://github.com/chokkoyamada/github-handson
 
 ---
 
+class: center, middle
+
 # Pull Requestを受ける側
 
 ---
@@ -214,5 +216,6 @@ https://github.com/chokkoyamada/github-handson
 * ウェブサイトのホスティング(GitHub Pages) ←このプレゼンでも利用
 * Issue管理（バグトラッカー）
 * Wikiの機能
+* 自動テストとの連携
 
 
