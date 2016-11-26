@@ -99,4 +99,90 @@ GitHubのシステムの最も肝の部分であるPull Requestについて実�
 
 # Pull Requestを体験してみよう
 
+GitHubにログインした状態で、
+https://github.com/chokkoyamada/github-handson
+にアクセスしてください。
+
+---
+
+* "Fork"を押します。
+
+<img width="500" alt="_2016-11-26_11_28_29" src="https://cloud.githubusercontent.com/assets/843192/20637534/0236925c-b3ce-11e6-86a9-093489fa9a56.png">
+
+
+---
+
+* slide.mdを編集してみます。
+
+<img width="500" alt="_2016-11-26_11_48_48" src="https://cloud.githubusercontent.com/assets/843192/20637561/90b48246-b3ce-11e6-8f5a-83b23d7a33f9.png">
+
+---
+
+* 編集します。
+
+<img width="500" alt="_2016-11-26_11_32_36" src="https://cloud.githubusercontent.com/assets/843192/20637572/15e61a1a-b3cf-11e6-9514-12657c5b59ce.png">
+
+
+---
+
+* 変更をcommitします。
+
+
+<img width="500" alt="2016-11-26 11 32 15" src="https://cloud.githubusercontent.com/assets/843192/20637578/58c92534-b3cf-11e6-9a64-91c52e72ee78.png">
+
+---
+
+次にPull Requestを作成します。
+
+https://github.com/chokkoyamada/github-handson  
+
+に戻ります。
+
+---
+
+* New Pull Requestを押します 
+
+<img width="500" alt="_2016-11-26_11_32_57" src="https://cloud.githubusercontent.com/assets/843192/20637581/79fe29d4-b3cf-11e6-82be-4239e27a699a.png">
+
+---
+
+* "Compare Accross Folks"を押し、自分のレポジトリを選択してPull Requestを作ります。さきほどの変更が反映されているはずです。
+
+<img width="500" alt="_2016-11-26_11_33_59" src="https://cloud.githubusercontent.com/assets/843192/20637589/bfef9d24-b3cf-11e6-808e-98f1bf00c8b9.png">
+
+---
+
+
+* Pull Requestが作成されました。
+
+<img width="500" alt="2016-11-26 11 40 51" src="https://cloud.githubusercontent.com/assets/843192/20637598/f559f2a2-b3cf-11e6-8973-6442f6ee16d6.png">
+
+
+---
+
+* Pull Requestを受ける側
+
+<img width="500" alt="_2016-11-26_11_41_40" src="https://cloud.githubusercontent.com/assets/843192/20637610/68d8daa4-b3d0-11e6-9fc1-9f3866666082.png">
+
+---
+
+* 確認して、適宜コメントするか、内容がOKであればマージを行います
+
+
+<img width="500" alt="_2016-11-26_11_41_49" src="https://cloud.githubusercontent.com/assets/843192/20637617/9450dd3a-b3d0-11e6-9880-e26480970e55.png">
+
+
+---
+
+* マージが完了しました。
+
+<img width="1068" alt="2016-11-26 11 42 21" src="https://cloud.githubusercontent.com/assets/843192/20637620/a9a73a4e-b3d0-11e6-93c0-337182662787.png">
+
+---
+
+# Pull Requestの何が良いのか？
+
+* 小さなパッチを送ることが分かりやすく、かつオープンにできる
+* レビューのプロセスが挟まることで、コードの品質が良くなる
+
 
