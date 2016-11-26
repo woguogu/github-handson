@@ -23,10 +23,6 @@ https://chokkoyamada.github.io/github-handson/
 
 ---
 
-ここにスライドを追加してみます
-
----
-
 # もくじ
 
 1. 自己紹介
@@ -99,6 +95,7 @@ GitHubのシステムの最も肝の部分であるPull Requestについて実�
 
 <img width="500" alt="_2016-11-26_11_08_13" src="https://cloud.githubusercontent.com/assets/843192/20637402/f107a772-b3c9-11e6-9577-b19e228f63b1.png">
 
+---
 
 # Pull Requestを体験してみよう
 
